@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Demo Vault 2/3. ARCHIEVED/learn-skill/00. Main_learn_skill_tips.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Demo Vault 2/3. ARCHIEVED/learn-skill/00. Main_learn_skill_tips.md"
+                "file": "index.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Demo Vault 2/3. ARCHIEVED/learn-skill/00. Main_learn_skill_tips.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Demo Vault 2/3. ARCHIEVED/learn-skill/00. Main_learn_skill_tips.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Demo Vault 2/3. ARCHIEVED/learn-skill/00. Main_learn_skill_tips.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -241,6 +241,9 @@
   },
   "active": "6eef552626f765b7",
   "lastOpenFiles": [
+    "GuideLine.md",
+    "index.md",
+    "Demo Vault 2/3. ARCHIEVED/learn-skill/00. Main_learn_skill_tips.md",
     "Demo Vault 2/3. ARCHIEVED/learn-skill/images/nang_suat_hon_001.png",
     "Demo Vault 2/3. ARCHIEVED/learn-skill/images/8_buoc_quan_ly_thoi_gian.png",
     "Demo Vault 2/3. ARCHIEVED/learn-skill/images/quan_ly_time_4p.png",
@@ -251,7 +254,6 @@
     "Demo Vault 2/3. ARCHIEVED/learn-skill/images/Eisenhower/Pasted image 20230829102216.png",
     "Demo Vault 2/3. ARCHIEVED/learn-skill/images/Eisenhower/Pasted image 20230829102134.png",
     "Demo Vault 2/3. ARCHIEVED/learn-skill/images/Eisenhower/Pasted image 20230829102032.png",
-    "Demo Vault 2/3. ARCHIEVED/learn-skill/00. Main_learn_skill_tips.md",
     "Demo Vault 2/3. ARCHIEVED/learn-skill/Quản lý thời gian với mô hình 4 chữ P (4P’s).md",
     "Demo Vault 2/3. ARCHIEVED/learn-skill/Note Plan - capture.md",
     "Demo Vault 2/3. ARCHIEVED/learn-skill/Nguyên tắc SMART.md",
@@ -260,9 +262,7 @@
     "Demo Vault 2/3. ARCHIEVED/learn-skill/4 phương pháp lập kế hoạch phổ biến.md",
     "Demo Vault 2/3. ARCHIEVED/learn-skill/images/Eisenhower/Pasted image 20230829102918.png",
     "Demo Vault 2/3. ARCHIEVED/learn-skill/images/Eisenhower/Pasted image 20230829102847.png",
-    "Demo Vault 2/3. ARCHIEVED/learn-skill/images/Eisenhower/Pasted image 20230829102451.png",
     "README-En.md",
-    "README.md",
     "Demo Vault 2/Obsidian go.md",
     "Demo Vault 2/Hướng dẫn sử dụng.md",
     "Demo Vault 2/2. RESOURCE/Untitled.canvas",
