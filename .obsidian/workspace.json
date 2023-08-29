@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "README.md"
               }
             }
           },
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -242,7 +242,7 @@
   "active": "6eef552626f765b7",
   "lastOpenFiles": [
     "GuideLine.md",
-    "index.md",
+    "README.md",
     "Demo Vault 2/3. ARCHIEVED/learn-skill/00. Main_learn_skill_tips.md",
     "Demo Vault 2/3. ARCHIEVED/learn-skill/images/nang_suat_hon_001.png",
     "Demo Vault 2/3. ARCHIEVED/learn-skill/images/8_buoc_quan_ly_thoi_gian.png",
